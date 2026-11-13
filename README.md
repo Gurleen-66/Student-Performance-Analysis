@@ -1,10 +1,26 @@
 # Student Performance Analysis Using Python
-
 ## 1. Project Description
 
-This project analyzes student examination scores using Python.
+The **Student Performance Analysis Using Python** project focuses on analyzing students' academic performance through data preparation, statistical analysis, and data visualization.
 
-It includes data preprocessing, exploratory data analysis, visualizations, and feature engineering.
+The main objective of this project is to explore students' examination scores in Mathematics, Reading, and Writing, identify patterns in academic performance, and understand the relationships between different subject scores.
+
+This project uses Python libraries such as NumPy, Pandas, Matplotlib, Plotly, and Scikit-learn to perform data cleaning, preprocessing, Exploratory Data Analysis (EDA), and feature engineering.
+
+Different static and interactive visualizations are created to present the analysis in a clear and understandable way.
+
+### Project Objectives
+
+- To load and understand the student performance dataset.
+- To clean and preprocess the data.
+- To perform Exploratory Data Analysis (EDA).
+- To analyze student scores using statistical methods.
+- To create meaningful visualizations using Matplotlib and Plotly.
+- To identify relationships between Mathematics, Reading, and Writing scores.
+- To create new features using feature engineering.
+- To draw meaningful conclusions from the analysis.
+
+**Project Outcome:** This project provides a better understanding of student academic performance through Python-based data analysis and visualization.
 
 ## 2. Dataset
 
