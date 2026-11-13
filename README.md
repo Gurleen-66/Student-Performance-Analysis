@@ -136,3 +136,6 @@ Refer to the Jupyter Notebook for detailed numerical results and EDA observation
 ## 10. License
 
 Refer to the dataset's Kaggle license and terms before redistributing the dataset.
+
+## 11. Author 
+Gurleen Kaur, M.Tech CSE(AI), CDAC Mohali
